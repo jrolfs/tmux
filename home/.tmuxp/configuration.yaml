@@ -1,0 +1,38 @@
+session_name: configuration
+windows:
+- name: home
+  window_name: '~'
+  layout: even-horizontal
+  options:
+    automatic-rename: off
+  panes:
+  - ''
+  - ''
+  start_directory: /Users/jamie
+- name: neovim
+  window_name: neovim
+  layout: even-horizontal
+  options:
+    automatic-rename: off
+  panes:
+  - ''
+  - ''
+  start_directory: /Users/jamie/.homesick/repos/neovim
+- name: dot
+  window_name: dot
+  layout: even-horizontal
+  options:
+    automatic-rename: off
+  panes:
+  - ''
+  - ''
+  start_directory: /Users/jamie/.homesick/repos/dot
+- name: macos
+  window_name: macos
+  layout: even-horizontal
+  options:
+    automatic-rename: off
+  panes:
+  - ''
+  - ''
+  start_directory: /Users/jamie/.homesick/repos/macos

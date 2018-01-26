@@ -1,0 +1,39 @@
+session_name: opentable
+windows:
+- focus: 'true'
+  layout: 32ff,181x43,0,0{91x43,0,0,12,89x43,92,0,13}
+  options:
+    automatic-rename: 'off'
+  panes:
+  - zsh
+  - focus: 'true'
+    shell_command: zsh
+  start_directory: /Users/jamie/Development/OpenTable/booking-flow
+  window_name: booking
+- layout: 805b,181x43,0,0{94x43,0,0,26,86x43,95,0,29}
+  options:
+    automatic-rename: 'off'
+  panes:
+  - zsh
+  - focus: 'true'
+    shell_command: zsh
+  start_directory: /Users/jamie/Development/OpenTable/oc-loyalty-widgets
+  window_name: loyalty-oc
+- layout: 6dfe,181x43,0,0{90x43,0,0,16,90x43,91,0,21}
+  options:
+    automatic-rename: 'off'
+  panes:
+  - focus: 'true'
+    shell_command: zsh
+  - zsh
+  start_directory: /Users/jamie/Development/OpenTable/wtf-service
+  window_name: wtf
+- layout: 2df5,181x43,0,0{90x43,0,0,30,90x43,91,0,32}
+  options:
+    automatic-rename: 'off'
+  panes:
+  - focus: 'true'
+    shell_command: zsh
+  - zsh
+  start_directory: /Users/jamie/Development/OpenTable/loyalty-site
+  window_name: loyalty-site
