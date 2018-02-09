@@ -6,8 +6,8 @@ windows:
   options:
     automatic-rename: off
   panes:
-  - ''
-  - ''
+  - null
+  - null
   start_directory: $HOME
 - name: neovim
   window_name: neovim
@@ -15,8 +15,8 @@ windows:
   options:
     automatic-rename: off
   panes:
-  - ''
-  - ''
+  - null
+  - null
   start_directory: $HOME/.homesick/repos/neovim
 - name: dot
   window_name: dot
@@ -24,8 +24,8 @@ windows:
   options:
     automatic-rename: off
   panes:
-  - ''
-  - ''
+  - null
+  - null
   start_directory: $HOME/.homesick/repos/dot
 - name: macos
   window_name: macos
@@ -33,6 +33,6 @@ windows:
   options:
     automatic-rename: off
   panes:
-  - ''
-  - ''
+  - null
+  - null
   start_directory: $HOME/.homesick/repos/macos
