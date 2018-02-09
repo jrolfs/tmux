@@ -1,7 +1,7 @@
 session_name: configuration
 windows:
 - name: home
-  window_name: '~'
+  window_name: "\U0001F3E0"
   layout: even-horizontal
   options:
     automatic-rename: off
