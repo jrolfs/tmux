@@ -45,3 +45,12 @@ windows:
   panes:
   - null
   - null
+- name: chat
+  window_name: chat
+  start_directory: $HOME/.homesick/repos/chat
+  layout: even-horizontal
+  options:
+    automatic-rename: off
+  panes:
+  - null
+  - null
