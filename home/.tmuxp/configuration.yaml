@@ -2,37 +2,37 @@ session_name: configuration
 windows:
 - name: home
   window_name: "\U0001F3E0"
+  start_directory: $HOME
   layout: even-horizontal
   options:
     automatic-rename: off
   panes:
   - null
   - null
-  start_directory: $HOME
 - name: neovim
   window_name: neovim
+  start_directory: $HOME/.homesick/repos/neovim
   layout: even-horizontal
   options:
     automatic-rename: off
   panes:
   - null
   - null
-  start_directory: $HOME/.homesick/repos/neovim
 - name: dot
   window_name: dot
+  start_directory: $HOME/.homesick/repos/dot
   layout: even-horizontal
   options:
     automatic-rename: off
   panes:
   - null
   - null
-  start_directory: $HOME/.homesick/repos/dot
 - name: macos
   window_name: macos
+  start_directory: $HOME/.homesick/repos/macos
   layout: even-horizontal
   options:
     automatic-rename: off
   panes:
   - null
   - null
-  start_directory: $HOME/.homesick/repos/macos
