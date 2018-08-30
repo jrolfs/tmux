@@ -36,3 +36,12 @@ windows:
   panes:
   - null
   - null
+- name: tmux
+  window_name: tmux
+  start_directory: $HOME/.homesick/repos/tmux
+  layout: even-horizontal
+  options:
+    automatic-rename: off
+  panes:
+  - null
+  - null
