@@ -3,6 +3,7 @@ windows:
 - name: home
   window_name: "\U0001F3E0"
   start_directory: $HOME
+  focus: true
   layout: even-horizontal
   options:
     automatic-rename: off
