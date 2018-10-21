@@ -1,7 +1,7 @@
 session_name: configuration
 windows:
 - name: home
-  window_name: "\U0001F3E0"
+  window_name: "\U0000301C"
   start_directory: $HOME
   focus: true
   layout: even-horizontal
