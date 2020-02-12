@@ -46,9 +46,9 @@ windows:
   panes:
   - null
   - null
-- name: chat
-  window_name: chat
-  start_directory: $HOME/.homesick/repos/chat
+- name: private
+  window_name: private
+  start_directory: $HOME/.homesick/repos/private
   layout: even-horizontal
   options:
     automatic-rename: off
