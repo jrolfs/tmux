@@ -1,0 +1,39 @@
+session_name: blueprint
+windows:
+- name: blueprint
+  window_name: blueprint
+  start_directory: $WORK_HOME/blueprint
+  layout: even-horizontal
+  options:
+    automatic-rename: off
+  panes:
+  - null
+  - null
+- name: components
+  window_name: components
+  start_directory: $WORK_HOME/blueprint/packages/components
+  layout: even-horizontal
+  options:
+    automatic-rename: off
+  panes:
+  - null
+  - null
+- name: tokens
+  window_name: tokens
+  start_directory: $WORK_HOME/blueprint/tokens
+  layout: even-horizontal
+  options:
+    automatic-rename: off
+  panes:
+  - null
+  - null
+- name: home
+  window_name: "\U0000301C"
+  start_directory: $HOME
+  focus: true
+  layout: even-horizontal
+  options:
+    automatic-rename: on
+  panes:
+  - null
+  - null
