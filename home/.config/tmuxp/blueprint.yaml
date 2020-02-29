@@ -18,6 +18,15 @@ windows:
   panes:
   - null
   - null
+- name: storybook
+  window_name: storybook
+  start_directory: $WORK_HOME/blueprint/applications/storybook
+  layout: even-horizontal
+  options:
+    automatic-rename: off
+  panes:
+  - null
+  - null
 - name: tokens
   window_name: tokens
   start_directory: $WORK_HOME/blueprint/tokens
