@@ -36,13 +36,3 @@ windows:
   panes:
   - null
   - null
-- name: home
-  window_name: "\U0000301C"
-  start_directory: $HOME
-  focus: true
-  layout: even-horizontal
-  options:
-    automatic-rename: on
-  panes:
-  - null
-  - null
